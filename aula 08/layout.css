@@ -1,0 +1,61 @@
+body{
+		margin: 0;
+		width:100vw;
+                height: 100vh;
+                display: flex;
+		justify-content: center;
+		/* Firefox 3.6+ */
+ 		background-image: -moz-linear-gradient(white, #a5dcf7 190%);
+ 		/* Safari 5.1+, Chrome 10+ */
+ 		background-image: -webkit-linear-gradient(white, #a5dcf7 190%);
+ 		/* Opera 11.10+ */
+ 		background-image: -o-linear-gradient(white, #a5dcf7 190%);
+		
+	    }
+	    article {
+                margin: 20px;
+		border: 1px solid gray;
+		width: 400px;
+		height: 400px;
+		background: white; 
+	    }
+	    article section {
+                margin-left: 20px;
+	    }
+	    article h1 {
+               text-align: center;
+	    }
+	    footer{
+		font-size: 12px;
+		text-align: right;
+		margin-right: 10px;
+		color: blue;
+	    }
+		
+	    section {
+                margin: 20px;
+		background: #c2f8f9;
+	    }
+
+            section b{
+                color: #a103c4;
+	    }
+
+	    .pattern{
+	    	margin-left:20px;
+	    }
+
+	    #pOrigin:hover{
+	    	text-decoration-line: underline;
+	    	cursor:pointer;
+	    }
+
+	    #pUse:hover{
+	    	text-decoration-line: underline;
+	    	cursor:pointer;
+	    }
+
+	    #pFunc:hover{
+	    	text-decoration-line: underline;
+	    	cursor:pointer;
+	    }
