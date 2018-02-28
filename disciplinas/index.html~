@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Todas as Disciplinas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="../index.html" class="logo">
+									<span class="symbol"><img src="../images/logo.svg" alt="" /></span><span class="title">PROF. DANILO BORGES</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="../index.html">Home</a></li>
+							<li><a href="index.html">Disciplinas</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Todas as Disciplinas</h1>
+							
+							<p>Confira abaixo a lista de disciplinas com suas respectivas ementas.</p>
+							<h2>Lista de Disciplinas</h2>
+
+
+											<ul class="alt">
+												<li>
+<h3>Programação para dispositivos móveis</h3>
+<blockquote>
+<p><span class="image left"><img src="../images/disciplinas/ppdm/index-small.png"/></span><b>Ementa:</b> Arquitetura dos dispositivos com suporte à mobilidade para a comunicação de dados. Principais protocolos
+utilizados. Sistemas Operacionais com suporte à mobilidade. Linguagens de programação compatíveis.
+Criação de aplicativos para dispositivos móveis. Conceitos de aplicações cliente-servidor e autônomas.
+Protocolos e aplicações usados em sistemas de comunicação móvel. Banco de dados. Construção de um
+aplicativo para dispositivos móveis com integração com outros sistemas e plataformas. Autor da ementa: Tiago Guimarães Sombra
+</p>
+<p>
+<b>Objetivos:</b> Orientar o aluno na utilização de conhecimentos adquiridos nas disciplinas de programação e aplicar a
+sistemas operacionais com suporte à mobilidade na construção de um aplicativo para dispositivos móveis
+com integração com outros sistemas e plataformas.
+</p>
+<p><b>Instituição:</b> Faculdade Lourenço Filho (FLF). <br><b>Período:</b> 2018.1.  <br><b>Dias/horário: Toda sexta-feira nos horários</b> AB (18h30 - 20h20) e CD (20h25 - 22h15).</p>
+<p><a href="ppdm/index.html">Link para página da disciplina: Programação Para Dispositivos Móveis</a></p>
+</blockquote>
+</li>
+												<!--li>Sagittis adipiscing.</li>
+												<li>Felis enim feugiat.</li-->
+											</ul>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Contato</h2>
+								Em caso de dúvidas enviar e-mail para: prof.danilob@gmail.com
+							</section>
+							<section>
+								<h2>Siga</h2>
+								<ul class="icons">
+									
+									<li><a href="https://www.facebook.com/borgesdanilo" class="icon style2 fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+									
+									<li><a href="https://github.com/danilob" class="icon style2 fa-github"><span class="label" target="_blank">GitHub</span></a></li>
+									
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="../assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
