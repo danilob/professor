@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    /* Firefox 3.6+ */
+    background-image: -moz-linear-gradient(white, #a5dcf7 190%);
+    /* Safari 5.1+, Chrome 10+ */
+    background-image: -webkit-linear-gradient(white, #a5dcf7 190%);
+    /* Opera 11.10+ */
+    background-image: -o-linear-gradient(white, #a5dcf7 190%);
+}
+
+#todo {
+    margin: 20px;
+	border: 1px solid gray;
+	width: 900px;
+	min-height: 700px;
+	background: white; 
+}
+
+#title{
+	font-size: 1.5em;
+	text-align: center;
+	text-decoration-line: underline;
+
+}
+
+#contents{
+	margin-top: 20px;
+	width: 900px;
+	min-height: 300px;
+}
+
+#left{
+	margin: 8px;
+	padding: 15px;
+	width: 400px;
+	min-height: 200px;
+	border: 2px dashed #ff5400;
+	float: left;
+
+}
+
+#right{
+	margin: 8px;
+	padding: 15px;
+	width: 400px;
+	min-height: 200px;
+	border: 2px dashed #ff5400;
+	float: right;
+}
+
+.month{
+	text-align: left;
+	background: #ffae00;
+	color: white;
+}
+
+.year{
+	text-align: right;
+	background: #ffae00;
+	color: white;
+}
+
+table {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+tr.week th{
+	font-weight: normal;
+	background: #6699CC;
+	color: white;
+}
+
+td.z1{
+    background: #fce4a9;
+}
+
+td.z2{
+    background: #eee;
+}
+
+tr td:first-child{
+	color: red;
+	font-weight: bold;
+}
+
+#none{
+   color: gray;
+}
+
+#week{
+	margin-bottom: 5px;
+    border-bottom: 1px solid #eee;	
+}
+
+.description{
+	margin-left: 40px;
+	background: #f77b07;
+	color: white;
+	font-size: 1.1em;
+
+
+}
+
+ul > li{
+	border: 1px dashed red;
+	font-size: 1em;
+}
+
+.action{
+	font-style: italic;
+	font-size: 0.9em;
+}

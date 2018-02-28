@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+	<meta charset="UTF-8">
+	<title>Atividade Integrada</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="script.js"></script>    
+    </head>
+    <body>
+    <div id="todo">
+        <div id="titulo"><h1>Coloque a expressão na caixa abaixo</h1></div>
+        <div id=res></div>
+    </div>
+    </body>
+</html>

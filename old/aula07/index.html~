@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+	<meta charset="UTF-8">
+	<title>Navegador: Google Chrome</title>
+	<style>
+	    
+	</style>
+<script>
+ window.onload = function (){
+    var titulo = document.querySelector("#titulo");
+    titulo.style.background ="red";
+    titulo.style.fontSize = "50px";
+    var result = "";
+    var a;
+    for(a=0;a<=10;a++){
+       if(a%2==0){
+	  result += a + " ";
+       }
+    }
+
+    titulo.textContent = result;
+}
+</script>
+    </head>
+    <body >
+    <article>
+	<div id="titulo"><h1>Coloque a expressão na caixa abaixo</h1></div>
+        <div id=res></div>
+    </article>
+    </body>
+</html>

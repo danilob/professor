@@ -1,0 +1,36 @@
+<html>
+   <head>
+      <style type="text/css">
+        #titulo{
+            background: yellow;
+            display: inline;
+	}
+        .importante{
+            color: red;
+        }
+
+	.voutentar{
+            color: blue;
+            text-decoration: underline;
+            
+	}
+      </style>
+   </head>
+   <body>
+      <h3><div id="titulo">Agenda</div></h3>
+      <h1><i>Hoje meus planos são:</i></h1><br>
+      <ol type="A">
+          <li class="importante">Acordar às 8h</li>
+	  <li>Pegar o ônibus às 9h</li>
+	  <li class="importante">Chegar na faculdade às 10h</li>
+          <li class="importante">Almoçar às 11h30</li>
+	  <li>Depois do almoço, realizar algumas pesquisas:</li>
+	  <ul type="disc">
+             <li>Estudar lógica</li>
+	     <li class="voutentar">Estudar javascript</li>
+	  </ul>
+          <li>Sair da faculdade às 17h</li>
+	  <li>Chegar em casa às 19h</li>
+      </ol>
+   </body>
+</html>
