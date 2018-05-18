@@ -3356,8 +3356,36 @@
 		}
 pomegranate{
 	color: #c0392b;
+	font-size:102%;
 }
 
 nephritis{
 	color:#27ae60;
+	font-size:102%;
+}
+
+belize{
+	color:#2980b9;
+	font-size:102%;
+}
+
+orange{
+	font-size:102%;
+	color:#f39c12;
+}
+
+wisteria{
+	font-size:102%;
+	color: #be2edd;
+	
+}
+
+midnight{
+	font-size:102%;
+	color:#8e44ad;
+	
+	
+}
+.no-class{
+	font-style: italic;
 }
