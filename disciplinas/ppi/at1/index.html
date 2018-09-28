@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Atividade Avaliativa</title>
+    <link rel="stylesheet" type="text/css" href="layout.css" />
+</head>
+
+<body>
+    <header id="title">
+        <h1>Atividade Avaliativa</h1>
+	<h3>Autor: Danilo Borges </h3>
+	<h4>Data: <span id="datahoje"></span></h4>
+    </header>
+    <article id="all">
+
+        <article id="textocontainer">
+            <textarea id="texto" oninput="changeText()">Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz.</textarea><br>
+            <section id="sizetexto"></section>
+            <br>
+            Frase selecionada:
+            <section id="selection"></section>
+            <section id="sizeselecao"></section><br>
+            <button id="send" onclick="goPush()">Armazenar</button>
+
+        </article>
+
+        <br>
+        <article id="historico">
+            Histórico
+            <section id="lista"></section>
+            <button id="clear" onclick="clearHistorico()">Limpar</button>
+        </article>
+    </article>
+    <script type="text/javascript" src="script.js" />
+    </script>
+</body>
+
+</html>
