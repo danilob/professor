@@ -1,0 +1,215 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Disciplina - Programação para Dispositivos Móveis</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="../../assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="../../assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="../../index.html" class="logo">
+									<span class="symbol"><img src="../../images/logo.svg" alt="" /></span><span class="title">PROF. DANILO BORGES</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="../../index.html">Home</a></li>
+							<li><a href="../index.html">Disciplinas</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Programação para Dispositivos Móveis</h1>
+
+							<span class="image main"><img src="../../images/disciplinas/ppdm/index-wallpaper.png" alt="" /></span>
+							<h3>Informações gerais</h3>
+				<blockquote>
+<p><b>Ementa:</b> Arquitetura dos dispositivos com suporte à mobilidade para a comunicação de dados. Principais protocolos
+utilizados. Sistemas Operacionais com suporte à mobilidade. Linguagens de programação compatíveis.
+Criação de aplicativos para dispositivos móveis. Conceitos de aplicações cliente-servidor e autônomas.
+Protocolos e aplicações usados em sistemas de comunicação móvel. Banco de dados. Construção de um
+aplicativo para dispositivos móveis com integração com outros sistemas e plataformas. Autor da ementa: Tiago Guimarães Sombra
+</p>
+<p>
+<b>Objetivos:</b> Orientar o aluno na utilização de conhecimentos adquiridos nas disciplinas de programação e aplicar a
+sistemas operacionais com suporte à mobilidade na construção de um aplicativo para dispositivos móveis
+com integração com outros sistemas e plataformas.
+</p>
+<p><b>Instituição:</b> Faculdade Lourenço Filho (FLF). <br><b>Período:</b> 2018.1.  <br><b>Dia/horário:</b> Toda sexta-feira nos horários AB (18h30 - 20h20) e CD (20h25 - 22h15).</p>
+</blockquote>
+<h3>Slides</h3>
+<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Nº</th>
+													<th>Data</th>
+													<th>Descrição</th>
+													<th>Arquivo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>01</td>
+													<td>02/Mar</td>
+													<td>Apresentação</td>
+													<td>Slides: <!--a href="https://drive.google.com/open?id=1BO2KMLijzFPl4NDuviZ5nZYDvrP-OErE" target="_blank">Link</a></td>
+												</tr>
+												<tr>
+													<td>02</td>
+													<td>02/Mar</td>
+													<td>Introdução & Histórico</td>
+													<td>Slides: <!--a href="https://drive.google.com/open?id=17m0zOSQ5UrX8irglO-_C-QAmiiUY383p" target="_blank">Link</a></td>
+												</tr>
+<tr>
+													<td>03</td>
+													<td>09/Mar</td>
+													<td>Android Studio</td>
+													<td>Slides: <!--a href="https://drive.google.com/open?id=1mOTsTO-3AOZQ49ZX0sPGZ8bdSni_4YyQ" target="_blank">Link</a></td>
+												</tr>
+<td>04</td>
+													<td>09/Mar</td>
+													<td>Primeiros Passos</td>
+													<td>Slides: <!--a href="https://drive.google.com/open?id=1x_78tWwPk-w8nZcQkntboaCDBCn4A51B" target="_blank">Link</a><br>
+    Material: <!--a href="https://drive.google.com/open?id=14X--BIcUxqW4gczaydIXRMC0456cT7Rr" target="_blank">Link</a><br>
+Github Classroom: <a href="#" target="_blank">Link</a>
+</td>
+												</tr>												
+
+											</tbody>
+											
+										</table>
+									</div>
+								</section>
+<h3>Atividades</h3>
+<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Nº</th>
+													<th>Data de Entrega</th>
+													<th>Meio de Entrega</th>
+													<th>Descrição</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>01</td>
+													<td>08/Mar</td>
+													<td>Por email (<!--a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTe12yVQWB7gKNIdZPOxlPaaKsvNoZVtQS6H-HEk-oGEbJbSWTj9peLje-sPfXH_e011Va9d9q747pi/pubhtml?gid=0&single=true" target="_blank">Lista de Entrega</a>)</td>
+													<td><!--a href="https://drive.google.com/open?id=11Tc_ocF5oYy4lHXu0bs0Uel7krckv5ON" target="_blank">Link</a></td>
+												</tr>
+											</tbody>
+											
+										</table>
+									</div>
+<h3>Provas</h3>
+<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Descrição</th>
+													<th>Data</th>
+													<th>Horário</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>AP1</td>
+													<td>06 de Abril</td>
+													<td>AB (18h30 - 20h20)</td>
+												</tr>
+												<tr>
+													<td>AP2</td>
+													<td>19 de Maio</td>
+													<td>AB (18h30 - 20h20)</td>
+												</tr>
+												<tr>
+													<td>AP3</td>
+													<td>22 de Junho</td>
+													<td>AB (18h30 - 20h20)</td>
+												</tr>
+												
+											</tbody>
+										</table>
+									</div>
+<h3>Referências</h3>
+<p>LECHETA, Ricardo R. <b>Google Android:
+Aprenda a criar aplicações para
+dispositivos móveis com o Android
+SDK</b>. 4ª Edição. Novatec Editora, 2015.</p>
+<p>GLAUBER, Nelson. <b>Dominando o
+Android: do básico ao avançado</b>.
+Novatec Editora, 2014.</p>
+<h3>Links úteis</h3>
+
+											<ol>
+												<li><!--a href="https://www.android.com/" target="_blank">Site do Android</a></li>
+											</ol>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Contato</h2>
+								Em caso de dúvidas enviar e-mail para: prof.danilob@gmail.com
+							</section>
+							<section>
+								<h2>Siga</h2>
+								<ul class="icons">
+									
+									<li><!--a href="https://www.facebook.com/borgesdanilo" class="icon style2 fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+									
+									<li><!--a href="https://github.com/danilob" class="icon style2 fa-github"><span class="label" target="_blank">GitHub</span></a></li>
+									
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../../assets/js/jquery.min.js"></script>
+			<script src="../../assets/js/skel.min.js"></script>
+			<script src="../../assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="../../assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../../assets/js/main.js"></script>
+
+	</body>
+</html>
